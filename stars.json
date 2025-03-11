@@ -1,7 +1,7 @@
 [
   {
     "full_name": "codingtherapist/webAccessibilityStudyGroup",
-    "stargazers_count": 88,
+    "stargazers_count": 87,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -9,19 +9,19 @@
     "full_name": "ExamProCo/aws-bootcamp-cruddur-2023",
     "stargazers_count": 502,
     "open_issues_count": 12,
-    "forks_count": 355
+    "forks_count": 354
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 291076,
-    "open_issues_count": 482,
-    "forks_count": 48376
+    "stargazers_count": 291449,
+    "open_issues_count": 483,
+    "forks_count": 48428
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 28589,
+    "stargazers_count": 28597,
     "open_issues_count": 84,
-    "forks_count": 13251
+    "forks_count": 13250
   },
   {
     "full_name": "curtisbarnard/leetcode-grind75-javascript",
@@ -32,8 +32,8 @@
   {
     "full_name": "curtisbarnard/BANKI",
     "stargazers_count": 690,
-    "open_issues_count": 6,
-    "forks_count": 359
+    "open_issues_count": 7,
+    "forks_count": 360
   },
   {
     "full_name": "swapagarwal/geeksay",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 34955,
+    "stargazers_count": 34958,
     "open_issues_count": 12,
-    "forks_count": 8170
+    "forks_count": 8172
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 47210,
-    "open_issues_count": 54,
-    "forks_count": 83612
+    "stargazers_count": 47289,
+    "open_issues_count": 32,
+    "forks_count": 83719
   }
 ]
